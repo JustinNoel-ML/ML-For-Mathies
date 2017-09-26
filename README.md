@@ -1,2 +1,2 @@
 # ML-For-Mathies
-Material related to course on Machine Learning
+Material related to a course on Machine Learning
